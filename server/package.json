@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    
+    "build": "tsc --watch",
     "start": "node dist/index.js"
   },
   "keywords": [],
